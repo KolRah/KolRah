@@ -12,8 +12,7 @@ Few things about me:
 - 👯 I’m looking to collaborate on various business projects
 - 🤔 I’m looking for help with -> "nothing yet but I'll keep you informed"
 - 💬 Ask me about anything
-- 📫 How to reach me: raphael@developpeur.codes
-- 😄 Pronouns: ...
+- 📫 How to reach me: web.energy.paris@gmail.com
 <!--
 - ⚡ Fun fact: 
 -->

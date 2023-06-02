@@ -6,12 +6,12 @@
 
 Few things about me:
 
-- 🔭 I’m currently working on a brand new multisources .NET Core Web API
-- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) & ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- 🔭 I’m currently working on ... "Multisources .NET 7 Web APIs interacting with Solace & SQL Server & some other nice things / Clear Architecture / RediatR"
+- 🌱 I’m currently learning ... yes, that's true ! I'm always learning ...
 
-- 👯 I’m looking to collaborate on various business projects
-- 🤔 I’m looking for help with -> "nothing yet but I'll keep you informed"
-- 💬 Ask me about anything
+- 👯 I’m looking to collaborate on ... "various business projects ... but not yet"
+- 🤔 I’m looking for help with ... "nothing but I'll keep you informed if needed"
+- 💬 Ask me about ... "anything"
 - 📫 How to reach me: web.energy.paris@gmail.com
 <!--
 - ⚡ Fun fact: 

@@ -6,7 +6,7 @@
 
 Few things about me:
 
-- 🔭 I’m currently working on ... "Multisources .NET 7 Web APIs interacting with Solace & SQL Server & some other nice things / Clean Architecture / RediatR"
+- 🔭 I’m currently working on ... "Multisources .NET 7 Web APIs interacting with Solace & SQL Server & some other nice things / Clean Architecture / MediatR"
 - 🌱 I’m currently learning ... yes, that's true ! I'm always learning ...
 
 - 👯 I’m looking to collaborate on ... "various business projects ... but not yet"
